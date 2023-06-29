@@ -6,3 +6,4 @@
 //
 
 import Foundation
+var a: Int = 0
